@@ -78,9 +78,9 @@ A normalized feature matrix is trained with an **SVM (RBF kernel)** via **10‑f
 | :-- | :-- | :-- | :-- |
 | MUTAG | 0.80 / 0.82 | 0.83 / 0.85 | **0.90 / 0.86** |
 | PTC‑MR | 0.52 / 0.59 | 0.51 / 0.58 | **0.53 / 0.60** |
-| NCI1 | 0.70 / 0.73 | 0.73 / 0.74 | – |
+| NCI1 | – | 0.70 / 0.73 | 0.73 / 0.74 |
 | AIDS | 0.84 / 0.95 | 0.98 / 0.98 | **0.99 / 0.98** |
-| PROTEINS | 0.63 / 0.66 | 0.60 / 0.67 | – |
+| PROTEINS | – | 0.63 / 0.66 | 0.60 / 0.67 |
 
 The **Quantum Attention Model** demonstrates superior expressivity, interpretability, and domain generality.
 
