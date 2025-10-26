@@ -93,6 +93,7 @@ Clone and execute all cells in either notebook:
 ```bash
 git clone https://github.com/HoceiniRihab/QFennecs_QPoland-Global-Quantum-Hackathon.git
 cd QFennecs_QPoland-Global-Quantum-Hackathon
+pip install -r requirements.txt
 ```
 
 Then open one of:
